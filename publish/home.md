@@ -8,6 +8,7 @@ arthew0 new home
 [[2014-04-29_waves]]
 [[2023-12-01_artificalcreaturescontact]]
 
+test update submodule
 
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
 - Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
